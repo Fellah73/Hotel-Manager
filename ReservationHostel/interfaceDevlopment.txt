@@ -1,0 +1,24 @@
+1st & 2nd Day:
+1st display:=> 1-exit button   (done)
+               2-button for admin and another for the customer
+               3-the north JPanel is for the title (done)
+               4-the center JPanel is for  :
+                     -west for the admin panel  (done)
+                     -east for the customer panel  (ghdwa)
+
+               5-les images des cotés pour l'hotel      (done)
+               6-exit in the butom right corner (done)
+              -mzal customer panel (sign in and log in)
+5th Day:
+2nd display=> Admin Frame :
+             1-return to the 1st display
+             easy lba9i
+
+8th Day
+3rd display=> Customer Frame :
+             1-return to the 1st display (done)
+             2-room regalge (done)
+             3-room displaying(done)
+             4-room modify-reservation(mzal)
+             5-backcend(mzal)
+

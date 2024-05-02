@@ -1,0 +1,13 @@
+single,mer,simple,false,11111112
+single,montagne,simple,false,11221101
+suite,mer,king-size,true,55113391
+twin,mer,simple,false,33111152
+suite,montagne,Queen-size,false,55224481
+double,mer,Queen-size,false,22114431
+single,mer,simple,false,11111111
+twin,mer,simple,false,33111151
+triple,montagne,double,false,44222261
+twin,montagne,king-size,false,33223341
+twin,montagne,double,false,33222242
+twin,mer,simple,false,33111171
+double,montagne,double,false,22222221

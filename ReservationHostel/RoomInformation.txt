@@ -1,0 +1,39 @@
+Informations de base:
+
+Nom et prénom
+Adresse email
+Numéro de téléphone
+Date d'arrivée
+Date de départ
+Nombre de personnes
+Informations sur la chambre:
+
+Type de chambre (simple, double, twin, triple, familiale, suite...)
+Taille de la chambre (en mètres carrés)
+Vue (mer, montagne, ville, jardin...)
+Lit(s) (simple, double, king-size...)
+Fumeurs/non-fumeurs
+Étage (préférence)
+Accessibilité aux personnes à mobilité réduite
+Services et équipements:
+
+Petit-déjeuner inclus
+Wi-Fi (gratuit ou payant)
+Parking (gratuit ou payant)
+Climatisation
+Télévision
+Mini-bar
+Coffre-fort
+Piscine
+Spa
+Restaurant
+Bar
+Autres informations:
+
+Code promotionnel
+Demandes spéciales (lit bébé, animaux domestiques...)
+Informations de paiement:
+
+Numéro de carte de crédit
+Date d'expiration
+Code de sécurité

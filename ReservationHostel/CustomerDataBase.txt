@@ -1,0 +1,8 @@
+mohamed,Algeria,mohamed123
+akram,dz,akram123
+saci,dzair,saci123
+aymen,aymen,aymen123
+saci,s,saci123
+alger,alger,alger123
+dahmane,dahmane,dahmane
+sfou7i,usa,0110

@@ -1,0 +1,59 @@
+Admin: to log:userName and Password;  //farya
+       to sign:name,nickname,gmail,password.  //farya
+
+lets start with admin-part
+
+Customer:
+
+to log:name,country,password//farya
+to sign:name,password  //farya
+
+
+rooms-reservation:
+customer-djiha:
+room-type,view,bed,type,day & month,period of reservation
+
+room:
+admin-djiha:
+
+
+//room-data base//farya
+
+to add:
+room-type,external-view,bed-type
+
+//generate{roomNumber,roomOd}  //ymchi
+//add room//ymchi
+
+update & delete:
+
+//delete //fariya(mzal qulque exceptions)
+
+//update//
+//ghdwa  (fariya)
+
+
+customer-djiha
+
+to add:
+roomType,bedType,view,date&month,period of reservation,payment method,customerName(title of the window)
+
+
+//recuperer la demande (fariya)
+//delete your reservation//fariya
+//generate a reservation id //fariya
+
+AdminPart :
+
+reservation:
+
+//show (fariya)
+//traitement (mzal) //exceptions ta3 ki makash chambre
+
+
+//periode of test
+(traitment fariya)
+
+mzal delete wnro7 nsali
+
+delete (probleme fi update ta3 room.isreserved && disponibility fi dispoNumbers)
